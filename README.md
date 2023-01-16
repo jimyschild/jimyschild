@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimyschild
 - 👀 I’m interested in working with programming
-- 🌱 I’m currently learning, Python, HTML, CSS
+- 🌱 I’m currently learning, HTML, CSS, JS, PYTHON
 <!----💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
