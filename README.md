@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jimyschild
-- 👀 I’m interested in working with programming
-- 🌱 I’m currently learning, HTML, CSS, JS, PYTHON
+- # 👋 Hi, I’m @jimyschild
 
+- 👀 I’m interested in working with programming
+
+- 🌱 I’m currently learning, HTML, CSS, JS, PYTHON
+##
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimyschild&show_icons=true&theme=merko)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimyschild&layout=compact&theme=dark)
